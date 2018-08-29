@@ -9,3 +9,5 @@ base:
   - default.files.kuberepo
  'smn1':
   - user-wilma
+ 'sm1':
+  - k8s-master
